@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632012793764",
+    "project_id": "uofk-final-task",
+    "storage_bucket": "uofk-final-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632012793764:android:90158ea71ee3cdd46ec331",
+        "android_client_info": {
+          "package_name": "com.example.uofk_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632012793764-112gl5qd74u8rdmelcvhas4f9lltflk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8UemwmJzLvSiPqdvc-QGJelXaAkdQfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632012793764-112gl5qd74u8rdmelcvhas4f9lltflk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
